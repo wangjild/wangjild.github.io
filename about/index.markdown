@@ -3,6 +3,7 @@
     title: Endless Void
     tagline: About me
 ---
+
 # 联系方式
 <img style="float: right" src="/images/weixin.png" alt="扫我" height="100" width="100" />
 
@@ -12,7 +13,6 @@
  - 知乎:   [www.zhihu.com/people/wangjild](http://www.zhihu.com/people/wangjild)
 
 ---
-
 
 # 个人信息
 
@@ -27,15 +27,11 @@
 
 # 工作经历
 
-## 小米科技 (2014年5月 ~ 至今)
+## 小米网 电商架构组 (2014年5月 ~ 至今)
 
 ### Cache平台 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
-
 
 ### Mysql代理 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
-
 
 ## 百度 LBS事业部 开放平台组 (2012年2月 ~ 2014年4月)
 
@@ -64,8 +60,10 @@
 - Web开发:          PHP/golang
 - 开发框架(库):     Yaf/libevent/glibc
 - 数据库与NoSQL:    MySQL/MySQL-Proxy/Redis/Tweproxy
+- 集群与分布式系统: 消息队列/zookeeper/[etcd](https://github.com/coreos/etcd)
+- 配置管理与同步:   yaml/[confd](https://github.com/kelseyhightower/confd)
 - 版本管理、文档:   Git/Markdown/PHPDoc
-- 单元测试:         PHPUnit/gotest
+- 单元测试:         PHPUnit/go test
 - debug和profile:   gdb/xhprof/go pprof/tcmalloc
 - 编译相关:         yacc/bison
 
