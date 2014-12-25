@@ -12,7 +12,6 @@
 - Email:　[wangjild#gmail.com](mailto:wangjild@gmail.com)
 - 微信: 　请扫我 ===>>>
 - 知乎: 　[www.zhihu.com/people/wangjild](http://www.zhihu.com/people/wangjild)
-- 阅读: 　[www.douban.com/people/2634310/](http://www.douban.com/people/2634310/)
 
 # 个人信息
 ---
