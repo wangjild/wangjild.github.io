@@ -9,7 +9,6 @@
 
 <img style="float: right" src="/images/weixin.png" alt="扫我" height="100" width="100" />
 
-- 手机: 　15801676224
 - Email:　[wangjild#gmail.com](mailto:wangjild@gmail.com)
 - 微信: 　请扫我 ===>>>
 - 知乎: 　[www.zhihu.com/people/wangjild](http://www.zhihu.com/people/wangjild)
